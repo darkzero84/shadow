@@ -2,7 +2,7 @@ var body = $response.body;
 var obj = JSON.parse(body);
 
 obj = {
-  "result": 1
+  "result": "test"
 }
   
 body = JSON.stringify(obj);
