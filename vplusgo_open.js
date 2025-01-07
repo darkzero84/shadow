@@ -5,7 +5,7 @@ obj = {
 	"data": {},
 	"status": 200,
 	"success": 2,
-	"message": ""
+	"message": "Hello World!!!"
 }
   
 body = JSON.stringify(obj);
