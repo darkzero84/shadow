@@ -4,7 +4,7 @@ var obj = JSON.parse(body);
 obj = {
 	"data": {},
 	"status": 200,
-	"success": 1,
+	"success": 2,
 	"message": ""
 }
   
