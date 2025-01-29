@@ -9,18 +9,19 @@ obj = {
 		"product_id": "vplus_app_product_business",
 		"product_name": "Business",
 		"license": "6 months",
-		"days": 180,
-		"expired_date": null,
-		"number_openfile": 3,
-		"number_opened": 3,
-		"num_of_file": 3,
+		"days": 1800,
+		"expired_date": "9999-31-12",
+		"number_openfile": 9999,
+		"number_opened": 0,
+		"num_of_file": 9999,
 		"num_of_file_type": "day",
-		"number_device": 3,
+		"number_device": 9999,
 		"number_device_login": 0,
-		"token": null
-	}
+		"token": ""
+	},
 	"status": 200,
 	"success": 1,
+	"statuslogin": 0,
 	"message": ""
 }
   
